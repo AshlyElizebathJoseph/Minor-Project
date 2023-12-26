@@ -18,5 +18,5 @@ This project is a simple Python script that uses OpenCV and pyttsx3 to perform r
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/face-detection.git
+   git clone https://github.com/AshlyElizebathJoseph/face-detection.git
    cd face-detection
