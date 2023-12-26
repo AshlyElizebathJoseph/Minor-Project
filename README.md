@@ -20,3 +20,10 @@ This project is a simple Python script that uses OpenCV and pyttsx3 to perform r
    ```bash
    git clone https://github.com/AshlyElizebathJoseph/face-detection.git
    cd face-detection
+
+
+## Configuration
+Adjust parameters in the script, such as scaleFactor, minNeighbors, and minSize, to fine-tune face detection sensitivity.
+
+## Acknowledgments
+This project was inspired by the need for a simple face detection system with text-to-speech feedback.
